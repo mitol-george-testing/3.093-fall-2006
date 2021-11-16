@@ -1,0 +1,30 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Academic Writing"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "108e5af4-7d18-f6b8-177d-10ad2b482cef",
+      "1034c86c-f608-27ec-02a3-8dfa4deece57",
+      "19acf68d-4e67-b490-0f71-083da872b424"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Information Exploration: Becoming a Savvy Scholar",
+  "course_description": "This freshman course explores the scientific publication cycle, primary vs. secondary sources, and online and in-print bibliographic databases; how to search, find, evaluate, and cite information; indexing and abstracting; using special resources (e.g. patents) and \"grey literature\" (e.g. technical reports and conference proceedings); conducting Web searches; and constructing literature reviews.\n",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "3.093",
+  "learning_resource_types": [
+    "Tutorial Videos",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
